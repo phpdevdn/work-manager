@@ -10,3 +10,6 @@ Demo app php, reactjs
 1 Import database from storage/work_manager.sql
 
 2 Config database from config/database.php
+
+Develop master
+comment by fireweb215
