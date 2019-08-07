@@ -1,5 +1,5 @@
 {
-    "name": "admin/work-manager",
+    "name": "admin/work-manager-new",
     "require": {},
     "config": {
         "optimize-autoloader": true,
