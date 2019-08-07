@@ -12,3 +12,4 @@ Demo app php, reactjs
 2 Config database from config/database.php
 
 Develop master
+comment by fireweb215
