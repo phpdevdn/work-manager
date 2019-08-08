@@ -1,5 +1,5 @@
 <IfModule mod_rewrite.c>
-	#redirect to public folder
+	#fireweb215
 	RewriteEngine On
 	RewriteBase /
 	RewriteRule ^(.*)$ public/$1 [L]
