@@ -1,5 +1,5 @@
 <IfModule mod_rewrite.c>
-	#redirect to public folder
+	#khacduy0103
 	RewriteEngine On
 	RewriteRule ^(.*)$ public/$1 [L]
 </IfModule>
