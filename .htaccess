@@ -1,5 +1,6 @@
 <IfModule mod_rewrite.c>
 	#khacduy0103
 	RewriteEngine On
+	RewriteBase /
 	RewriteRule ^(.*)$ public/$1 [L]
 </IfModule>
